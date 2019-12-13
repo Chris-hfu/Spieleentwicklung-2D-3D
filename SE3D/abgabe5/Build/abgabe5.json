@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Spieleentwicklung3D",
+"dataUrl": "abgabe5.data.unityweb",
+"asmCodeUrl": "abgabe5.asm.code.unityweb",
+"asmMemoryUrl": "abgabe5.asm.memory.unityweb",
+"asmFrameworkUrl": "abgabe5.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
